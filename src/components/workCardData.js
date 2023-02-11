@@ -2,6 +2,7 @@ import pro1 from "../Assets/amazonclone.jpeg"
 import pro2 from "../Assets/chatapp.jpeg"
 import pro3 from "../Assets/makes notes app.jpeg"
 import pro4 from "../Assets/expense tracker.jpeg"
+import pro5 from "../Assets/portfolioss.png"
 
 const ProjectCardData =[
     {
@@ -19,6 +20,14 @@ const ProjectCardData =[
         video: "https://clipchamp.com/watch/Drw8s6jud1p",
         source: "https://github.com/Tushar2302/Realtime-Chat-app",
         live:  "https://groupchat.onrender.com/"
+    },
+    {
+        imgsrc:pro5,
+        title: "My-Portfolio",
+        text: "I successfully build and deploy a my portfolio website.the project is amde using React Js and deploy render app.",
+        video:"https://clipchamp.com/watch/Mw9K8hrnrjT",
+        source: "https://github.com/Tushar2302/My-Portfolio",
+        live: "https://tushar-portfolio.onrender.com/"
     },
     {
         imgsrc:pro3,
