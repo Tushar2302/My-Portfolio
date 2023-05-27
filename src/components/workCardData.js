@@ -3,6 +3,7 @@ import pro2 from "../Assets/chatapp.jpeg"
 import pro3 from "../Assets/makes notes app.jpeg"
 import pro4 from "../Assets/expense tracker.jpeg"
 import pro5 from "../Assets/portfolioss.png"
+import pro6 from "../Assets/CineMaX.png"
 
 const ProjectCardData =[
     {
@@ -24,10 +25,18 @@ const ProjectCardData =[
     {
         imgsrc:pro5,
         title: "My-Portfolio",
-        text: "I successfully build and deploy a my portfolio website.the project is amde using React Js and deploy render app.",
+        text: " successfully build and deploy a my portfolio website.the project is made using React Js and deploy render app.This is user interactive website where they can contact me via email.",
         video:"https://clipchamp.com/watch/Mw9K8hrnrjT",
         source: "https://github.com/Tushar2302/My-Portfolio",
         live: "https://tushar-portfolio.onrender.com/"
+    },
+    {
+        imgsrc:pro6,
+        title: "CineMaX",
+        text: "A Website where user can get information,rating,other info about different movies. A project is made react-js and api calls.",
+        video: "https://clipchamp.com/watch/Drw8s6jud1p",
+        source: "https://github.com/Tushar2302/CineMaX",
+        live:  "https://cinemax-i935.onrender.com/"
     },
     {
         imgsrc:pro3,
