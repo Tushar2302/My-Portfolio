@@ -29,9 +29,9 @@ const Footer = () => {
             </div>
         </div>
         <div className="right"  >
-            <h4>About Me:</h4>
+            <h4>Social Links:</h4>
             <p>
-                Hi!  My name is Tushar Pawar.
+                Let's Connect.
             </p>
             <div className="social">
               <a href="https://www.linkedin.com/in/thetusharpawar/">

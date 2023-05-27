@@ -1,6 +1,7 @@
 .footer{
     width: 100%;
-    padding: 6rem 0;
+    padding: 6rem ;
+    
     background-color: rgba(19, 19, 19, 0.8);
     align-content: baseline;
 }
@@ -48,6 +49,7 @@ h4{
 
 p{
     font-size: 1.2rem;
+    
 }
 .leetcode{
 }

@@ -8,7 +8,7 @@
     color: aliceblue;
     text-align: center;
     padding-top: 5rem;
-    font-weight: 400;
+    font-weight: 600;
     font-size:x-large;
     text-decoration: solid;
     text-decoration: wavy;
@@ -51,11 +51,22 @@
 }
 .about .heading{
     color: black;
+    padding-bottom: 1rem;
+
 }
 .about .left p{
     color: gray;
     margin: 1.2rem 0;
     padding-bottom: 1rem;
+}
+.headpara{
+    color: red;
+    
+    max-width: 150px;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    
 }
 
 
@@ -68,7 +79,7 @@
 .right .img-container{
     display: grid;
     grid-template-columns: repeat(12,1fr);
-    position: relative;
+    position:relative;
     align-items: center;
     text-align: center;
 }

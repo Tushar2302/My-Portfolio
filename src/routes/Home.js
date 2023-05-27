@@ -11,12 +11,7 @@ const Home = () => {
     <div>
       <Navbar/>
       <HeroImg />
-      <div className='contact' style={{color: "aliceblue",textAlign: 'center',paddingTop:'3rem',fontWeight:'400',fontSize:'x-large',textDecoration:'solid'}}>About Me</div>
-      <About/>
-      <div className='contact' style={{color: "aliceblue",textAlign: 'center',paddingTop:'3rem',paddingBottom:'3rem',fontWeight:'400',fontSize:'x-large',textDecoration:'solid'}}>Projects</div>
-      <Work/>
-      <div className='contact' style={{color: "aliceblue",textAlign: 'center',paddingTop:'3rem',fontWeight:'400',fontSize:'x-large',textDecoration:'solid'}}>Lets Have a Chat</div>
-      <Form/>
+     
       <Footer />
     </div>
   )

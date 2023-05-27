@@ -1,6 +1,6 @@
 .mask{
     width: 100%;
-    height: 100vh;
+    height: 150vh;
     position: relative;
 }
 .background-portf{
@@ -11,6 +11,7 @@
     background-position: center;
     object-fit: cover;
 }
+
 
 .mask::after{
     content: "";
@@ -35,6 +36,19 @@
     left: 50%;
     text-align: center;
 }
+.circle{
+    padding-top: 7rem;
+}
+.circleimg{
+    border-radius: 200px;
+    box-shadow: #d6e8ec;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+    box-shadow: 0 0 15px rgb(139, 136, 136);
+}
 
 .hero .content h1{
     font-size: 3rem;
@@ -45,11 +59,18 @@
 	-webkit-text-fill-color: transparent;
 	
 }
-
+.brief{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    min-width: 60%;
+    min-height: 60%;
+}
 .hero .content p{
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     font-weight: 200;
-    text-transform: uppercase;
+    
+    
 }
 
 .content .btn{
@@ -57,6 +78,9 @@
 }
 
 @media screen and (max-width:640px) {
+    .mask{
+        height: 150vh;
+    }
     .hero .content h1{
         font-size: 3rem;
     }
@@ -64,5 +88,11 @@
     .hero .content p{
         font-size: 1.4rem;
         
+    }
+    .circle{
+        padding-top: 17rem;
+    }
+    .circleimg{
+        width: 80%;
     }
 }
