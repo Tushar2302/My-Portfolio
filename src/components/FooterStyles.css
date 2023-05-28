@@ -1,7 +1,7 @@
 .footer{
     width: 100%;
     padding: 6rem ;
-    
+    padding-top: 8rem;
     background-color: rgba(19, 19, 19, 0.8);
     align-content: baseline;
 }

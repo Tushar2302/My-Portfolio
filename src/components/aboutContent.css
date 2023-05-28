@@ -100,3 +100,17 @@
     z-index: 5;
 }
 
+.skills{
+    align-items: center;
+    color:beige;
+    align-content: center;
+    
+}
+.list{
+    align-self: center;
+    padding: 1rem;
+    color:beige;
+}
+.item{
+    padding: 1rem;
+}

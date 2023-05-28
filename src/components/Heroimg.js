@@ -30,18 +30,17 @@ const HeroImg = () => {
             typeSpeed={50}
             deleteSpeed={50}
             delaySpeed={1000}
-            words={['Full Stack Developer','Java Developer','React.Js Developer','Devops enthusiast']}
+            words={['Java Developer','Web Developer','Devops enthusiast']}
             />
           </span>
   </h1>
-        */}
+  */}
   <div className="brief">
-    <p> A logical and Creative thinker,I love solving problems.
+    <p> A Software Developer with a passion for learning
     </p>
     <p>
-      Web and Java Developer.
+      and creating
     </p>
-    <p>Devops enthusiast.</p>
   </div>
   <div className="home_buttons" style={{paddingTop:"35px"}}>
   <a className="btn" href={resume} download="Resume"

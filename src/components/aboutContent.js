@@ -52,7 +52,25 @@ const AboutContent = () => {
           </div>
         </div>
       </div>
+      <div className="skills">
+      <h1>Skills</h1>
+      <ol className="list">
+        <li className="item">
+          <h2>Front-End</h2>
+          <span>HTML,CSS,ReactJS,NPM </span>
+        </li>
+        <li className="item">
+          <h2>Back-End</h2>
+          <span>Java, Spring,MYSQL,MONGODB,NodeJS </span>
+        </li>
+        <li className="item">
+          <h2>Languages</h2>
+          <span>Java,Python ,C,C++, Basic Javascript </span>
+        </li>
+      </ol>
     </div>
+    </div>
+    
   )
 }
 

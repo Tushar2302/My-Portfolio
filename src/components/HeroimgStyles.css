@@ -54,10 +54,15 @@
     font-size: 3rem;
     padding: 0.6rem 0 1.5rem;
     text-transform: uppercase;
-	background: linear-gradient( white 50% , #a4e0eb 50%);
+	background: linear-gradient( rgb(175, 245, 10) 50% , #cae964 50%);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	
+}
+.myName{
+    text-decoration:solid;
+    font-weight: 1000px;
+    color: antiquewhite;
 }
 .brief{
     display: block;
