@@ -43,7 +43,7 @@ const HeroImg = () => {
     </p>
   </div>
   <div className="home_buttons" style={{paddingTop:"35px"}}>
-  <a className="btn" href={resume} download="Resume"
+  <a className="btn" href={resume} download="Tushar's Resume"
             >Resume</a>
             <Link to="/contact"
             className="btn btn-light">Contact</Link>

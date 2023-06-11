@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import developerimg1 from "../Assets/aboutimg1.jpeg"
 import developerimg2 from "../Assets/aboutimage7.jpg"
 import back from "../Assets/back2.jpg"
-import resume from "../Assets/resumef.pdf"
+import resume from "../Assets/Tushar's Resume.pdf"
 
 const AboutContent = () => {
   return (
@@ -32,7 +32,7 @@ const AboutContent = () => {
           <div className="about-btns">
             <Link to="/contact"
               className="btn">Contact</Link>
-            <a className="btn" href={resume} download="Resume"
+            <a className="btn" href={resume} download="Tushar's Resume"
             >Resume</a>
 
 
