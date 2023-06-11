@@ -48,7 +48,7 @@ const Experience = () => {
             <h3 className='vertical-timeline-element--title'>
                 Marol Education Academy, Mumbai-400059
             </h3>
-            <p className='para'>12th Passed with  77.92%</p>
+            <p className='para'>12th Passed with  76.92%</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement className='vertical-timeline-element--education'
         date='2008-2018'

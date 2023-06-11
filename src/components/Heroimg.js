@@ -4,7 +4,7 @@ import React from 'react'
 import { Link } from "react-router-dom";
 import  {Typewriter}  from "react-simple-typewriter";
 import myimg from "../Assets/aboutimg1.jpeg";
-import resume from "../Assets/resume2.pdf"
+import resume from "../Assets/Tushar's Resume.pdf"
 
 
 const HeroImg = () => {
