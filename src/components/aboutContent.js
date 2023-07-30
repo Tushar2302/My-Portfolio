@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import developerimg1 from "../Assets/aboutimg1.jpeg"
 import developerimg2 from "../Assets/aboutimage7.jpg"
 import back from "../Assets/back2.jpg"
-import resume from "../Assets/Tushar's Resume.pdf"
+import resume from "../Assets/Tushar Resumef.pdf"
 
 const AboutContent = () => {
   return (
@@ -26,7 +26,7 @@ const AboutContent = () => {
             </p1>
           <p>
             I am a BTech student from Rajiv Gandhi Institute of Technology,Mumbai.
-            I am dedicated,hardworking, and proactive coder with a strong background in Compitative Programming, Web Development,Java full stack Development and Team Management.
+            I am dedicated,hardworking, and proactive coder with a strong background in Data Structure and Algorithms, Web Development,Java full stack Development and Team Management.
 
           </p>
           <div className="about-btns">
@@ -56,16 +56,24 @@ const AboutContent = () => {
       <h1>Skills</h1>
       <ol className="list">
         <li className="item">
-          <h2>Front-End</h2>
-          <span>HTML,CSS,ReactJS,NPM </span>
-        </li>
-        <li className="item">
-          <h2>Back-End</h2>
-          <span>Java, Spring,MYSQL,MONGODB,NodeJS </span>
-        </li>
-        <li className="item">
           <h2>Languages</h2>
-          <span>Java,Python ,C,C++, Basic Javascript </span>
+          <span>Java,Python,CPP,C</span>
+        </li>
+        <li className="item">
+          <h2>Web Technology</h2>
+          <span>HTML,CSS </span>
+        </li>
+        <li className="item">
+          <h2>Frameworks</h2>
+          <span>Spring Boot,React JS </span>
+        </li>
+        <li className="item">
+          <h2>Databases</h2>
+          <span>MySQL,PostreSQL</span>
+        </li>
+        <li className="item">
+          <h2>Other Skills</h2>
+          <span>Data Structure and Algorithms,OOPS,DBMS </span>
         </li>
       </ol>
     </div>
