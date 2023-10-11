@@ -14,16 +14,7 @@ const Experience = () => {
         iconStyle={{background:"#3e497a",color:"#fff"}}
         icon={<FaDesktop/>}
         >
-            <h3 className='vertical-timeline-element--title'>
-                Suven Consultants and Technology Pvt Ltd.
-            </h3>
-            <p className='para'>Devops Training and Internship.</p>
-        </VerticalTimelineElement>
-        <VerticalTimelineElement className='vertical-timeline-element--education'
-        date='Feb 2023 - April 2023' color="blue"
-        iconStyle={{background:"#3e497a",color:"#fff"}}
-        icon={<FaDesktop/>}
-        >
+            
             <h3 className='vertical-timeline-element--title'>
                 TCR Innovation.
             </h3>
